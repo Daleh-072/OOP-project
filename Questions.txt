@@ -1,0 +1,4 @@
+What is your favuarate food?,Orange,Ice cream, Apple, Nothing
+What is the capital of KSA?, Reyadh, Dammam, Khobar,Jeddah
+What is the best University in the world?, KFUPM,KSU,KFU,IAU
+What is my Name? , Nawaf, Ahmed, Khaled, Fahd
